@@ -8,6 +8,7 @@ const ListUser = ({ data }) => {
   return (
     <>
       <div>
+        <div>LIST USER:</div>
         <User data={data} />
       </div>
     </>
